@@ -1,21 +1,14 @@
 # Graph-GEN
-This project contains the code used for the generation of graphs using the published method "Deep Generative Model for Sparse Graphs using Text-Based Learning with Augmentation in Generative Examination Networks 
+This project contains the code used for the generation of graphs using the published method "Deep Generative Model for Sparse Graphs using Text-Based Learning with Augmentation in Generative Examination Networks" [https://arxiv.org/abs/1909.11472] 
 ![GEN Framework](GEN_explained.png)
 
 ## Reference
-On using code for grpahs or modification for other text-based learning please refer to the original publication.
 
-Please cite the following publication for any use of code or any parts thereof (including use of custom layers).
+Please refer to the archive when using any file thereof.
 
-"GEN: Highly Efficient SMILES Explorer Using Autodidactic Generative Examination Networks"
+Please cite the following publication:
 
-Ruud van Deursen<sup>a</sup> and Guillaume Godin<sup>a</sup>
-
-<sup>a</sup> Firmenich SA, Research and Development, Rue des Jeunes 1, CH-1227 Les Acacias, Geneva, Switzerland
-
-## Publication links
-
-<link to arxiv>
+Ruud van Deursen and Guillaume Godin, "Deep Generative Model for Sparse Graphs using Text-Based Learning with Augmentation in Generative Examination Networks", https://arxiv.org/abs/1909.11472
 
 ## License
 The code is freely available under a Clause-3 BSD license (https://opensource.org/licenses/BSD-3-Clause).
